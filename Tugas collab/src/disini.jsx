@@ -7,7 +7,7 @@ export default function App() {
   const profiles = [
     {
       name: "Fadgham Khairul Hafizh",
-      description: "Fullstack developer, code ninja, dan pemburu ide tengah malam.",
+      description: "Fullstack developer, code ninja, dan pemburu ide tengah malam, Suka Samardinda.",
       image: fotofadgham,
     },
     {
