@@ -4,7 +4,7 @@ import fotoWildan from "./assets/welldone.jpg"
 export default function App() {
   return (
     <div>
-      <h1 className="text-3xl font-bold ">Fadgham Khairul Hafizh</h1>
+      <h1 className="text-3xl font-bold ">Fadgham Khairul Hafizh dari Samarinda</h1>
       <img src={fotofadgham} alt="" />
       
       <h1 className="text-3xl font-bold ">Jusuf fathan Nuradly</h1>
